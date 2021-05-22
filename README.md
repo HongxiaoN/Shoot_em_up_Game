@@ -1,8 +1,7 @@
 # Shoot_em_up_Game-
-#########################################################################################################################################################
+# 
 # Used four milestones to build a horizontal scrolling space game using MARS assembly.
 # Incrementally developed different levels, scoring system, count down clock and smooth graphics and  with fluctuating requirements from players.
-#########################################################################################################################################################
 # 
 # CSCB58 Winter 2021 Assembly Final Project
 # University of Toronto, Scarborough
@@ -27,5 +26,3 @@
 # https://youtu.be/a3HcvSEpQTU
 # https://utoronto-my.sharepoint.com/:v:/g/personal/hongxiao_niu_mail_utoronto_ca/ESRjfilbnExGtwOSJ7p3sMQBS2Hb4XAY1fEdybEi5k_WQQ?e=1eHv8V
 #
-#
-##############################################################################################################################################
